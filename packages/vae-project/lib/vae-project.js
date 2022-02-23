@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
 module.exports = vaeProject;
 
 function vaeProject() {
-    // TODO
+  // TODO
+  console.log("vae-project");
 }
