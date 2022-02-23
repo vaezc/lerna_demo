@@ -1,7 +1,9 @@
-'use strict';
+"use strict";
 
 module.exports = vaeUtils;
 
 function vaeUtils() {
-    // TODO
+  // TODO
+  const name = "vae-utils";
+  console.log(name);
 }
