@@ -7,11 +7,9 @@
   "scripts": {
     "commit": "git-cz"
   },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  },
+  "workspaces": [
+    "packages/*"
+  ],
   "dependencies": {
     "@changesets/cli": "^2.21.0"
   }
